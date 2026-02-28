@@ -42,19 +42,19 @@ To demonstrate the full agentic lifecycle, below are the visual walkthroughs of 
 
 **Step 1: CLI Agentic Trace**
 - *This trace follows the terminal output of `weather_agent_cli.py` during a live query.*
-1. Initial User Input & AI Planning Phase(./screenshots/cli_trace_1.png)
-2. Complete Analysis & Forecast(./screenshots/cli_trace_2.png)
-3. Weekend Weather Forecast Output(./screenshots/cli_trace_3.png)
-4. Location description (tests AI reasoning)(./screenshots/cli_trace_4.png)
-5. Descriptive query (tests knowledge-based location finding)(./screenshots/cli_trace_5.png)
+1. Initial User Input & AI Planning Phase(screenshots/cli_trace_1.png)
+2. Complete Analysis & Forecast(screenshots/cli_trace_2.png)
+3. Weekend Weather Forecast Output(screenshots/cli_trace_3.png)
+4. Location description (tests AI reasoning)(screenshots/cli_trace_4.png)
+5. Descriptive query (tests knowledge-based location finding)(screenshots/cli_trace_5.png)
 
 **Step-2: Streamlit Web UI**
 - *Visualising the `weather_agent_web.py` dashboard and its transparent reasoning process.*
-1. Dashboard Landing: Title, Sidebars, and Model Info(./screenshots/web_ui_1.png)
-2. Input Trigger: Location entry and "Get Weather" action(./screenshots/web_ui_2.png)
-3. Sidebar Detail: "About the Agent" & Architecture workflow(./screenshots/web_ui_3.png)
-4. Step Containers: Visual Success Boxes for Planning & Execution(./screenshots/web_ui_4.png)
-5. Descriptive query (tests knowledge-based location finding)(./screenshots/web_ui_5.png)
+1. Dashboard Landing: Title, Sidebars, and Model Info(screenshots/web_ui_1.png)
+2. Input Trigger: Location entry and "Get Weather" action(screenshots/web_ui_2.png)
+3. Sidebar Detail: "About the Agent" & Architecture workflow(screenshots/web_ui_3.png)
+4. Step Containers: Visual Success Boxes for Planning & Execution(screenshots/web_ui_4.png)
+5. Descriptive query (tests knowledge-based location finding)(screenshots/web_ui_5.png)
 
 **Note**: *This project was developed as part of the BeSA (Agentic AI on AWS) program*.
 
